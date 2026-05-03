@@ -1,0 +1,34 @@
+Questions
+
+Which Sales Rep has the highest transaction count but not the highest revenue?
+What does this suggest about their sales behaviour? Trend Analysis
+Based on yearly performance:
+Should the company hire more staff in 2013 or reduce?
+Explain your reasoning
+
+
+
+ANSWERS
+
+1. After analyzing the data well as a data analyst i have get to find out that No sales rep strictly fits the condition, because Tola has both the highest transactions (7) and highest revenue (82,720) which is the highest amomg the sales rep so however if you are to look at the table based on the question asked i will say Abdul fits in well base on the question being asked. Abdul has high transactions but not the highest revenue base on the analysis made.
+
+2.Sales performance increased from 2010 to a peak in 2011, then declined in 2012 for most sales reps. While a few like Abdul showed steady growth, others experienced significant drops, indicating inconsistency and possible market or strategy issues. Based on this trend, the company should hold off on hiring in 2013 and instead focus on improving the performance of the current team before expanding.
+ 
+
+Hiring more staff during a declining performance period could increase costs without guaranteeing better results. A better approach would be to focus on training and replicating the success of high-performing reps like Abdul, ensuring the team becomes more productive.
+
+The company should NOT hire more staff yet  a cautious or slight reduction strategy is more appropriate.
+
+Reasoning:
+
+Sales peaked very well in 2011 but dropped in 2012
+which may be because of Possible market slowdown
+Or inefficiency in current sales strategy
+Only one rep (Abdul) shows consistent growth which is Abdu
+
+Better approach to solve the situation
+
+Improve sales strategy and training
+Focus on high-value deals (like Tola’s model)
+Optimize current team before expanding
+follow the growth pattern with Abdulwhich is consistent to build on others also
